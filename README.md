@@ -282,3 +282,12 @@ Os alertas podem ser classificados em diferentes níveis, como:
 - Programação Orientada a Objetos
 - Console/Terminal
 - IntelliJ IDEA ou Eclipse
+
+## Capturas de Tela
+
+<img width="250" src="src/br/com/ecodartmission/statics/img.png">
+<img width="250" src="src/br/com/ecodartmission/statics/img_1.png">
+<img width="250" src="src/br/com/ecodartmission/statics/img_2.png">
+<img width="250" src="src/br/com/ecodartmission/statics/img_3.png">
+<img width="250" src="src/br/com/ecodartmission/statics/img_4.png">
+<img width="250" src="src/br/com/ecodartmission/statics/img_5.png">
